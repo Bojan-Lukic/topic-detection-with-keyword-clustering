@@ -1,1 +1,1 @@
-# topic-detection-with-numerical-statistics-and-keyword-clustering
+# topic-detection-with-keyword-clustering
