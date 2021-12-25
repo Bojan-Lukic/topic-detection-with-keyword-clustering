@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+<br />
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -20,9 +22,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering">
-    <img src="res/logo.png" alt="Icon made by Freepik from www.flaticon.com" width="80" height="80">
-  </a>
+  <figure>
+    <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering">
+      <img src="res/logo.png" alt="Logo" width="80" height="80">
+    </a><br />
+    <figcaption><sub>Icon made by <a href="https://www.flaticon.com/authors/freepik">Freepik</a> from www.flaticon.com.</sub></figcaption>
+  </figure>
 
 <h3 align="center">Topic Detection with Keyword Clustering</h3>
 
@@ -40,7 +45,7 @@
   </p>
 </div>
 
-<br>
+<br />
 
 
 
@@ -70,7 +75,7 @@
   </ol>
 </details>
 
-<br>
+<br />
 
 
 
@@ -79,7 +84,7 @@
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
-<br>
+<br />
 
 
 <!--
@@ -94,7 +99,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
 
-<br>
+<br />
 -->
 
 
@@ -129,7 +134,7 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<br>
+<br />
 -->
 
 
@@ -141,7 +146,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<br>
+<br />
 
 
 
@@ -156,7 +161,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
-<br>
+<br />
 -->
 
 
@@ -175,7 +180,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<br>
+<br />
 
 
 
@@ -184,7 +189,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<br>
+<br />
 
 
 
@@ -195,7 +200,7 @@ Bojan Lukic - [Website](https://www.bojanlukic.com/)
 
 Project Link: [https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering](https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering)
 
-<br>
+<br />
 
 
 
