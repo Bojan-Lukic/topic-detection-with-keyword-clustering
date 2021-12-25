@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering">
-    <img src="res/logo.png" alt="Logo" width="80" height="80">
+    <img src="res/logo.png" alt="Icon made by Freepik from www.flaticon.com" width="80" height="80">
   </a>
 
 <h3 align="center">Topic Detection with Keyword Clustering</h3>
