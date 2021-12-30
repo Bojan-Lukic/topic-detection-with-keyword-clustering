@@ -32,7 +32,7 @@
 <h3 align="center">Topic Detection with Keyword Clustering</h3>
 
   <p align="center">
-    project_description
+    Detecting the topics found in text and word corpuses with keyword clustering.
     <br />
     <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering/doc"><strong>Explore the docs »</strong></a>
     <br />
@@ -55,9 +55,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <!-- <ul>
+      <ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul> -->
+      </ul>
     </li>
     <!-- <li>
       <a href="#getting-started">Getting Started</a>
@@ -82,25 +82,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+One of the main techniques used in this project is keyword clustering. Keyword clustering is a necessary technique which clusters bags of words taken from an article into clusters of words which are the most distinct compared to other articles in a corpus. Another technique is to observe the words with the highest occurences taken from an article, to understand which words are the most important ones.
 
 <br />
 
 
-<!--
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [R](https://www.r-project.org/)
+* [RStudio](https://www.rstudio.com/)
 
 <br />
--->
 
 
 <!-- GETTING STARTED -->
@@ -142,9 +134,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+To be updated.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the docs_
 
 <br />
 
@@ -207,9 +199,7 @@ Project Link: [https://github.com/Bojan-Lukic/topic-detection-with-keyword-clust
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [tf-idf](http://www.tfidf.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
