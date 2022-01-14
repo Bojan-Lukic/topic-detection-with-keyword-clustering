@@ -34,10 +34,10 @@
   <p align="center">
     Detecting the topics found in text and word corpuses with keyword clustering.
     <br />
-    <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering/doc"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering/tree/main/doc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering/src">View Demo</a>
+    <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering/tree/main/src">View Demo</a>
     ·
     <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering/issues">Report Bug</a>
     ·
@@ -90,7 +90,11 @@ One of the main techniques used in this project is keyword clustering. Keyword c
 ### Built With
 
 * [R](https://www.r-project.org/)
+  * [drlib](https://github.com/dgrtwo/drlib) package.
+  * Install [word2vec](https://cran.r-project.org/web/packages/word2vec/readme/README.html) first before installing [wordVectors](https://github.com/cpeeples/wordVectors).         <br />
+  If the repositories don't exist or you get compilation errors, you can use snapshots of the repositories in the folder <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering/tree/main/res">res</a>.
 * [RStudio](https://www.rstudio.com/)
+* [Rtools](https://cran.r-project.org/bin/windows/Rtools/rtools40.html) for installing packages from GitHub
 
 <br />
 
@@ -199,6 +203,12 @@ Project Link: [https://github.com/Bojan-Lukic/topic-detection-with-keyword-clust
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+* Matthew James Denny with [Text Processing in R](https://www.mjdenny.com/Text_Processing_In_R.html)
+* Taylor Arnold and Lauren Tilton with [Basic Text Processing in R](https://programminghistorian.org/en/lessons/basic-text-processing-in-r)
+* Korbinian Koch with [A Friendly Introduction to Text Clustering](https://towardsdatascience.com/a-friendly-introduction-to-text-clustering-fa996bcefd04)
+* Kory Becker with her [word2vec implmentation](https://gist.github.com/primaryobjects/8038d345aae48ae48988906b0525d175)
+* Teja Kodali with [K Means Clustering in R](https://www.r-bloggers.com/2015/12/k-means-clustering-in-r/)
+* [word2vec](https://code.google.com/archive/p/word2vec/)
 * [tf-idf](http://www.tfidf.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
