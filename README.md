@@ -91,8 +91,9 @@ One of the main techniques used in this project is keyword clustering. Keyword c
 
 * [R](https://www.r-project.org/)
   * [drlib](https://github.com/dgrtwo/drlib) package.
-  * Install [word2vec](https://cran.r-project.org/web/packages/word2vec/readme/README.html) first before installing [wordVectors](https://github.com/cpeeples/wordVectors).         <br />
-  If the repositories don't exist or you get compilation errors, you can use snapshots of the repositories in the folder <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering/tree/main/res">res</a>.
+  * [word2vec](https://cran.r-project.org/web/packages/word2vec/readme/README.html) 
+  * [wordVectors](https://github.com/cpeeples/wordVectors) - Note: Install word2vec first before installing wordVectors because of dependencies. <br />
+    If the repositories don't exist or you get compilation errors, you can use snapshots of the repositories stored in the folder <a href="https://github.com/Bojan-Lukic/topic-detection-with-keyword-clustering/tree/main/res">res</a>.
 * [RStudio](https://www.rstudio.com/)
 * [Rtools](https://cran.r-project.org/bin/windows/Rtools/rtools40.html) for installing packages from GitHub
 
