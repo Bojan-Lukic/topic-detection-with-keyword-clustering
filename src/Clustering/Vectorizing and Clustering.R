@@ -91,8 +91,8 @@ decisionplot <- function(model, data, class = NULL, predict_type = "class",
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 #Load previously built datasets
-load("TidyText.RData")
-load("MatrixwordsSorted.RData")
+load("resources/tidy_text.RData")
+load("resources/matrixwords_sorted.RData")
 #head(matrix)
 #Create matrix which will store the top n words with highest combined similarities
 store <- matrix(0, nrow = 8, ncol = length(matrix[, 1]))
